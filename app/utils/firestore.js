@@ -1,6 +1,8 @@
 const admin = require('firebase-admin');
 const config = require('../config');
-const serviceAccount = require('../assest/fir-demo-4aca4-firebase-adminsdk-s2pip-6b6367b727.json');
+
+//put path of your credential file from assest folder
+const serviceAccount = require('path to assest/credentialfile.json');
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
