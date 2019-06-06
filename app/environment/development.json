@@ -1,0 +1,16 @@
+{
+	"server": {
+		"http": {
+			"port": 6000,
+			"ip": "192.168.1.76"
+		},
+		"CORS": {
+			"allowedHosts": [
+				"http://192.168.1.76"
+			],
+			"allowedHeaders": "*",
+			"allowedMethods": "*"
+		}
+    },
+    "databaseUrl": "https://fir-demo-4aca4.firebaseio.com"
+}

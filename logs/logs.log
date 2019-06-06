@@ -1,0 +1,66 @@
+{"message":"Express server listening on Server:  http://6000:6000 with ProcessID: 22740","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://6000:6000 with ProcessID: 23500","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 21528","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 20984","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 19496","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 12612","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 23524","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 22456","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 19556","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Error Occured while getting movie by id Error: Value for argument \"documentPath\" is not a valid resource path. Path must be a non-empty string.\n    at Object.validateResourcePath (D:\\Parth\\node-architecture-1\\node_modules\\@google-cloud\\firestore\\build\\src\\path.js:407:15)\n    at CollectionReference.doc (D:\\Parth\\node-architecture-1\\node_modules\\@google-cloud\\firestore\\build\\src\\reference.js:1724:20)\n    at Object.exports.getMovieById (D:\\Parth\\node-architecture-1\\app\\api\\movies\\movies.service.js:20:56)\n    at exports.getMovieById (D:\\Parth\\node-architecture-1\\app\\api\\movies\\movies.controller.js:20:36)\n    at Layer.handle [as handle_request] (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\index.js:354:14)","level":"error"}
+{"message":"Error Occured while getting movie by id Error: Value for argument \"documentPath\" is not a valid resource path. Path must be a non-empty string.\n    at Object.validateResourcePath (D:\\Parth\\node-architecture-1\\node_modules\\@google-cloud\\firestore\\build\\src\\path.js:407:15)\n    at CollectionReference.doc (D:\\Parth\\node-architecture-1\\node_modules\\@google-cloud\\firestore\\build\\src\\reference.js:1724:20)\n    at Object.exports.getMovieById (D:\\Parth\\node-architecture-1\\app\\api\\movies\\movies.service.js:20:56)\n    at exports.getMovieById (D:\\Parth\\node-architecture-1\\app\\api\\movies\\movies.controller.js:20:36)\n    at Layer.handle [as handle_request] (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\index.js:354:14)","level":"error"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 22392","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 396","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 19740","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 1844","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 4728","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 22952","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Error Occured while getting movie by id Error: Value for argument \"documentPath\" is not a valid resource path. Path must be a non-empty string.\n    at Object.validateResourcePath (D:\\Parth\\node-architecture-1\\node_modules\\@google-cloud\\firestore\\build\\src\\path.js:407:15)\n    at CollectionReference.doc (D:\\Parth\\node-architecture-1\\node_modules\\@google-cloud\\firestore\\build\\src\\reference.js:1724:20)\n    at Object.exports.getMovieById (D:\\Parth\\node-architecture-1\\app\\api\\movies\\movies.service.js:20:56)\n    at exports.getMovieById (D:\\Parth\\node-architecture-1\\app\\api\\movies\\movies.controller.js:21:36)\n    at Layer.handle [as handle_request] (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\index.js:354:14)","level":"error"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 21040","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 17908","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Error Occured while getting movie by id Error: Value for argument \"documentPath\" is not a valid resource path. Path must be a non-empty string.\n    at Object.validateResourcePath (D:\\Parth\\node-architecture-1\\node_modules\\@google-cloud\\firestore\\build\\src\\path.js:407:15)\n    at CollectionReference.doc (D:\\Parth\\node-architecture-1\\node_modules\\@google-cloud\\firestore\\build\\src\\reference.js:1724:20)\n    at Object.exports.getMovieById (D:\\Parth\\node-architecture-1\\app\\api\\movies\\movies.service.js:20:56)\n    at exports.getMovieById (D:\\Parth\\node-architecture-1\\app\\api\\movies\\movies.controller.js:21:36)\n    at Layer.handle [as handle_request] (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Parth\\node-architecture-1\\node_modules\\express\\lib\\router\\index.js:354:14)","level":"error"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 2880","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 23148","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 20384","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 20804","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 17696","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 1352","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 944","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 19988","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 9144","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 16040","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 20648","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 12744","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 12068","level":"info"}
+{"message":"Environment: development","level":"info"}
+{"message":"Express server listening on Server:  http://192.168.1.76:6000 with ProcessID: 22672","level":"info"}
+{"message":"Environment: development","level":"info"}
