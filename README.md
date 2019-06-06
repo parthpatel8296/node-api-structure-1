@@ -18,7 +18,7 @@ npm install -g eslint
 
 # Project Architecture
 
-Here is the folder strucure :
+Here is the folder structure :
 
 ```bash
 ├───app
